@@ -1,5 +1,5 @@
 {
-"newVersion": "3.0.0",
+"newVersion": "1.0.1",
 "apkUrl": "https://play.google.com/store/apps/details?id=flexing.vpn.ph",
 "versionNotes":"
 • Optimize Add Coins
