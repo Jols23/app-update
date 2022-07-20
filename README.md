@@ -1,5 +1,5 @@
 {
-"newVersion": "1.0.1",
+"newVersion": "1.0.3",
 "apkUrl": "https://play.google.com/store/apps/details?id=com.jtech.vpn",
 "versionNotes":"
 • Optimize Add Coins
