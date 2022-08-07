@@ -1,5 +1,5 @@
 {
-"newVersion": "1.0.2",
+"newVersion": "2.0.1",
 "apkUrl": "https://play.google.com/store/apps/details?id=com.jtech.vpn",
 "versionNotes":"
 • Optimize Normal Addtime
